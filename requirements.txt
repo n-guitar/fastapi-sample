@@ -17,6 +17,7 @@ idna==3.3
 iniconfig==1.1.1
 packaging==21.3
 passlib==1.7.4
+peewee==3.14.8
 pluggy==1.0.0
 py==1.11.0
 pyasn1==0.4.8
@@ -34,5 +35,6 @@ SQLAlchemy==1.4.28
 starlette==0.16.0
 toml==0.10.2
 typing_extensions==4.0.1
+unicorn==1.0.3
 urllib3==1.26.7
 uvicorn==0.16.0
